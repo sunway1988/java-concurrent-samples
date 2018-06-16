@@ -1,2 +1,1 @@
-# java-concurrent-samples
-Java Concurrent Samples.
+### Java Concurrent Samples.
